@@ -1,0 +1,2 @@
+#Seedling monitor
+An Arduino controller for monitoring hydroponic seed cultivation. The controller will monitor room temperature and humidity, water level in the grow trays and in the reservoir. It will also control the grow light and report to HomeSeer. A small LCD is also included to display the temp and humidity.
